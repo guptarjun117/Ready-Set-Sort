@@ -1,0 +1,143 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/organic/apple_1.png",
+                "type": "image",
+                "key": "apple_1"
+            },
+            {
+                "url": "assets/organic/banana_1.png",
+                "type": "image",
+                "key": "banana_1"
+            },
+            {
+                "url": "assets/backgrounds/bg_stage_1.jpg",
+                "type": "image",
+                "key": "bg_stage_1"
+            },
+            {
+                "url": "assets/backgrounds/bg_stage_2.jpg",
+                "type": "image",
+                "key": "bg_stage_2"
+            },
+            {
+                "url": "assets/backgrounds/bg_stage_3.jpg",
+                "type": "image",
+                "key": "bg_stage_3"
+            },
+            {
+                "url": "assets/backgrounds/bg_stage_4.jpg",
+                "type": "image",
+                "key": "bg_stage_4"
+            },
+            {
+                "url": "assets/backgrounds/bg_stage_5.jpg",
+                "type": "image",
+                "key": "bg_stage_5"
+            },
+            {
+                "url": "assets/general/blackbag_1.png",
+                "type": "image",
+                "key": "blackbag_1"
+            },
+            {
+                "url": "assets/paper/box_1.png",
+                "type": "image",
+                "key": "box_1"
+            },
+            {
+                "url": "assets/general/coffee_1.png",
+                "type": "image",
+                "key": "coffee_1"
+            },
+            {
+                "url": "assets/organic/eggshell_1.png",
+                "type": "image",
+                "key": "eggshell_1"
+            },
+            {
+                "url": "assets/bins/general_bin.png",
+                "type": "image",
+                "key": "general_bin"
+            },
+            {
+                "url": "assets/bins/glass_bin.png",
+                "type": "image",
+                "key": "glass_bin"
+            },
+            {
+                "url": "assets/glass/glassbottle_1.png",
+                "type": "image",
+                "key": "glassbottle_1"
+            },
+            {
+                "url": "assets/bins/metal_bin.png",
+                "type": "image",
+                "key": "metal_bin"
+            },
+            {
+                "url": "assets/paper/newspaper_1.png",
+                "type": "image",
+                "key": "newspaper_1"
+            },
+            {
+                "url": "assets/bins/organic_bin.png",
+                "type": "image",
+                "key": "organic_bin"
+            },
+            {
+                "url": "assets/bins/paper_bin.png",
+                "type": "image",
+                "key": "paper_bin"
+            },
+            {
+                "url": "assets/plastic/plastic_bag_1.png",
+                "type": "image",
+                "key": "plastic_bag_1"
+            },
+            {
+                "url": "assets/bins/plastic_bin.png",
+                "type": "image",
+                "key": "plastic_bin"
+            },
+            {
+                "url": "assets/logo/logo.png",
+                "type": "image",
+                "key": "logo"
+            },
+            {
+                "url": "assets/plastic/plastic_milk_1.png",
+                "type": "image",
+                "key": "plastic_milk_1"
+            },
+            {
+                "url": "assets/plastic/plasticbottle_1.png",
+                "type": "image",
+                "key": "plasticbottle_1"
+            },
+            {
+                "url": "assets/general/redcup_1.png",
+                "type": "image",
+                "key": "redcup_1"
+            },
+            {
+                "url": "assets/metal/soda_can_1.png",
+                "type": "image",
+                "key": "soda_can_1"
+            },
+            {
+                "url": "assets/glass/wineglass_1.png",
+                "type": "image",
+                "key": "wineglass_1"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
