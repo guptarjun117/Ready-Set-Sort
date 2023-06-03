@@ -20,3 +20,5 @@ Game is live hosted and can be played at: https://guptarjun117.github.io/Ready-S
 ![Screenshot 2023-05-28 015056](https://github.com/guptarjun117/Ready-Set-Sort/assets/105283893/23cb6243-3c22-44d4-8dbd-8f15fb9c0a2a)
 
 Obviously there are bugs but not major ones. It was my first time working with JS and its framework Phaser so I cannot figure out how to remove the bugs. What bugs? Maybe play and figure it out!
+
+If you're feeling fancy feel free to upgrade the game.
