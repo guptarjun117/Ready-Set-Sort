@@ -9,7 +9,7 @@ Basic premise of the game is very simple;
 * There are 5 types of trash-bins on the ground (General, Paper, Metal, Organic, Plastic).
 * User needs to drag-and-drop the trash items falling from the sky to its respective trash bin.
   * Every correct sort grants 100 points _(a changeable variable in the code settings)_
-  * Every incorrect sort dedcuts 50 points _(a changeable variable in the code settings)_
+  * Every incorrect sort deducts 50 points _(a changeable variable in the code settings)_
 * Time limit is 1 minute _(a changeable variable in the code settings)_
 
 Game is live hosted and can be played at: https://guptarjun117.github.io/Ready-Set-Sort/
